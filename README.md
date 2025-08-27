@@ -1,1 +1,5 @@
-# my-first-repo
+Nama : Khayru Rafamanda Prananta
+
+NPM : 2406495893
+
+Kelas : PBP F
